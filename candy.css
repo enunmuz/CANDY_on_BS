@@ -1,0 +1,52 @@
+body{
+    background-color: pink;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+.navbar.scrolled {
+    background: rgb(222,192,222);
+    transition: background 500ms;
+}
+
+h2{
+    color: #ff0f47;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+.section1{
+     color: #f079be;
+     font-weight: 100;
+     font-size: 1rem;
+     line-height: 1.5;
+}
+
+#brandlogo{
+   color: #ff0f47;
+}
+.navbar-nav .nav-item .nav-link{
+    color: white;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: #ff0f47;
+}
+#bg{
+    background-color: #;
+}
+.container-fluid span{
+    color: #ff0f47;
+
+}
+.texts h1{
+    font-size: 4rem;
+    font-weight: 100;
+}
+ @media (max-width: 1300px){
+    .texts h1{
+        font-size: 3rem;
+        font-weight: 100;
+ }
+ @media (max-width: 1100px){
+    .texts h1{
+        font-size: 1.8rem;
+        font-weight: 100;
+ }
